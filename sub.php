@@ -20,17 +20,17 @@
                         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                          
                           <li class="nav-item">
-                            <a class="nav-link" href="addition.html">Addition</a>
+                            <a class="nav-link" href="addition.php">Addition</a>
                           </li>
                           <li class="nav-item">
-                            <a class="nav-link" href="sub.html">Substraction</a>
+                            <a class="nav-link" href="sub.php">Substraction</a>
                           </li>
                           <li class="nav-item">
-                            <a class="nav-link" href="mul.html">Multiplication</a>
+                            <a class="nav-link" href="mul.php">Multiplication</a>
                           </li>
     
                           <li class="nav-item">
-                            <a class="nav-link" href="div.html">Division</a>
+                            <a class="nav-link" href="div.php">Division</a>
                           </li>
                                  
                         
