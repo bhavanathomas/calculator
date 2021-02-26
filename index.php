@@ -20,7 +20,7 @@
                         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                           
                           <li class="nav-item">
-                            <a class="nav-link" href="addition.php">Addition</a>
+                            <a class="nav-link" href="index.php">Addition</a>
                           </li>
                           <li class="nav-item">
                             <a class="nav-link" href="sub.php">Substraction</a>
@@ -46,7 +46,7 @@
 
         </div>
         <div class="col-col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
-            <table>
+            <table class="table">
                 <tr>
                     <td>Number1</td>
                     <td><input  id= "num1" type="text" class="form-control"></td>
